@@ -1,0 +1,21 @@
+#header_div{
+    background-color: rgba(243, 116, 32, 0.635);
+    border-radius: 20px;
+    width:600px;
+    margin-top: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+}
+body{
+    background-color: rgba(255, 228, 196, 0.81);
+}
+#Activation{
+    border-radius: 20px;
+    text-decoration: white;
+    background-color: rgb(85, 213, 255);
+}
+#img
+{  width:250px;
+   height:250px; 
+}
